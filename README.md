@@ -1,1 +1,3 @@
 # Veri_Bilimi_Proje
+Taha SEYMEN 1306240024
+Mahmud KERİM 1306230004
