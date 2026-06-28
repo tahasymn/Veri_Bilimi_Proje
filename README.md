@@ -1,6 +1,7 @@
 #Proje Ekibi Bilgileri
 
 Mahmud KERİM 1306230004
+
 Taha SEYMEN  1306240024
 
 
